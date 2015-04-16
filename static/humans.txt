@@ -1,62 +1,17 @@
 /* TEAM */
-Developer: Nick Gerakines
-Site: http://ngerakines.me/
-Twitter: @ngerakines
-Location: Dayton, OH
+Developer: Utkarsh Patel
+Site: http://utkarshpi.ddns.net:8081/
+Twitter: @utkarsh_me
+Location: Pune, MH
 
 /* THANKS */
-Name: github:JKtheSlacker
-Name: github:goj
-Name: github:tomekwojcik
-Name: github:lupomontero
-Name: github:foutrelis
-Name: github:minimal
-Name: github:loginx
-Name: Xavier Spriet
-Name: Pat Notz
-Name: github:makerbot
-Name: github:htroyack
-Name: Pulkit Kathuria
-Name: github:serjoscha87
-Name: Hanlle Nicolás
-Name: Ryan Peck
-Name: Douglas Campos
-Name: github:wickedOne
-Name: Dimitris Baltas
-Name: Thomas Rausch
-Name: Michael Dougherty
-Name: Noval Agung Prayogo (github:novalagung)
-Name: Wahyu Kristianto (github:kristories)
-Name: Lukasz
-Name: Jon Raphaelson
-Name: Michael Babker
-Name: github:javiermon
-Name: Masahiro Honma
-Name: Corey Quinn
-Name: Kevin Bongart
-Name: github:Rebell
-Name: Chris Rowe
-Name: Warun Kietduriyakul
-Name: github:mipearson
-Name: Alex (github:Qwertylex)
-Name: Nate Eagleson
-Name: Igor Galić
-Name: Eric Boh
-Name: Lukas Stampf
-Name: Jonathan Rouillard
-Name: Robert Gründler
-Name: AJ Henriques (github:ajhenriques)
-Name: Maciej Orliński (github:originalnick)
-Name: David Turenne (github:Ociidii-Works)
-Name: Sepehr Lajevardi (github:sepehr)
-Name: Jefferson Daniel (github:jdsolucoes)
-Name: Jiang Chen (github:JC6)
+Name: Hardik Rathod
 
 /* SITE */
 Last update: 2014/04/17
 Standards: HTML5, CSS3
-Software: Vim, Git, Python, TextMate
+Software: Git, Python, Sublime
 
 /* SOURCE */
-Source: https://github.com/ngerakines/commitment
+Source: https://github.com/PatelUtkarsh/commitment
 License: MIT
