@@ -15,7 +15,7 @@ from tornado.options import define, options
 
 define("port", default=5000, help="run on the given port", type=int)
 
-names = ['Spock', 'Mayur', 'Hardik', 'Jinal' ]
+names = ['Spock', 'Assassin', 'JamesBond', 'Devin' ]
 
 humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
 messages_file = os.path.join(os.path.dirname(__file__), 'quote_messages.txt')
